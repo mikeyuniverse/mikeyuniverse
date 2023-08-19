@@ -5,4 +5,4 @@
 - 👨‍💻 <a href="https://www.linkedin.com/in/sergey-mikryukov-838272229/"  target="blank">LinkedIn</a>
 - 📧 <a href="https://t.me/mikeys"  target="blank">Send a message to Telegram</a>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mikeyuniverse&show_icons=true&hide_title=true&theme=github_dark" alt="mikeyuniverse" /></p>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mikeyuniverse&show_icons=true&hide_title=true&theme=github_dark" alt="mikeyuniverse" /></p> -->
