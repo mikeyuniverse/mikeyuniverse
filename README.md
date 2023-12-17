@@ -1,4 +1,4 @@
-<h1 align="left">Sergey Mikryukov (@mikeys) 👋</h1>
+<h1 align="left">Sergey Mikryukov 👋</h1>
 
 - 💻 Core Stack: **Go, Python**. Mainly focused on Backend & DevOps with Go.
 <!-- - 😉 <a href="https://drive.google.com/drive/folders/1we_w0diPLr-58hKdw3IVsjVV2Pn0s91E?usp=sharing"  target="blank">Resume</a> (<a href="https://mikeyuni.notion.site/About-Me-f5f5bc7a510b4a56b87b37b59076d86d"  target="blank">In detail</a>) -->
